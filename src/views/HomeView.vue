@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     123
-    <a-button type="primary" danger>Primary</a-button>
+    <a-button type="primary" danger>Primary1</a-button>
   </div>
 </template>
 
